@@ -1,6 +1,6 @@
 # Hola :wave:
 
-<img width=256 align="right" src="./images/avatar.png" />
+<img width=256 align="right" src="./images/fullstack.jpg" />
 
 Soy un **programador web** ubicado en la ciudad de Lerma, Estado de México. Actualmente trabajo como **Desarrollador Fullstack** en Figment. Paralelamente imparto clases en diferentes **Bachilleratos, Universidades y Posgrados**. Además, soy el autor de la obra: **[Metodología de la Programación mediante Pseudocódigo](http://iconos.edu.mx/qrtesis/230314MV.html)**, tesis para aprender a programar a través de un Pseudolenguaje asistido por computadora.  
 
