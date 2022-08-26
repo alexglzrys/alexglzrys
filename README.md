@@ -8,7 +8,7 @@ Soy un **programador web** ubicado en la ciudad de Lerma, Estado de México. Act
 - 🏢 Como desarrollador web he trabajado en: Figment, Kinetiq, XPSmart México y Clínica Médica La Santa Fe. 
 - 🏢 Como profesor he impartido catedra en: Instituto Nacional de Computación Aplicada (INCA), Centro de Bachillerato José Vasconcelos, así como el Instituto de Investigación en Comunicación y Cultura (ICONOS).
 - 🏃‍♂️ Me apasiona el atletismo, todos los días hago un recorrido de 10km.
-- 📚 Actualmente estoy enfocado en las Single Page Applications, los Web Components, así como en el Server Side Render.
+- 📚 Actualmente estoy enfocado en las **Single Page Applications, los Web Components, las Apps Híbridas, el Server Side Render, así como en el rendimiento, accesibilidad y optimización de páginas web**.
 - 🎮 Dato curioso, me gusta jugar videojuegos de los 80's.
 - 🎧 Me gusta la música, pero mis géneros favoritos son la cumbia y salsa.
 - 👨🏻‍🎓 Mi objetivo a mediano plazo consiste en estudiar un Doctorado y mejorar mi Inglés.
