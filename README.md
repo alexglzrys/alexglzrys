@@ -6,7 +6,7 @@ Soy un **programador web** ubicado en la ciudad de Lerma, Estado de México. Act
 
 - 👨🏼‍💻 **JavaScript, Angular, Ionic, React, jQuery, HTML, CSS, Responsive Web Design, PHP, Laravel, Codeigniter, MySQL, MongoDB** y un poco de **NodeJS** en el lado del servidor; son la pila de herramientas que utilizo en mi día a día.
 - 🏢 Como desarrollador web he trabajado en: **[Kinetiq](https://kinetiq.com.mx/)**, XPSmart México y Clínica Médica La Santa Fe. 
-- 🏢 Como profesor he impartido catedra en: **[Grupo Educativo INCA](http://www.inca.edu.mx/)**, **[Centro de Bachillerato José Vasconcelos](https://www.prepajv.com/)**, así como en [ICONOS](https://www.iconos.edu.mx/).
+- 🏢 Como profesor he impartido catedra en: **[Grupo Educativo INCA](http://www.inca.edu.mx/)**, **[Centro de Bachillerato José Vasconcelos](https://www.prepajv.com/)**, e **[ICONOS](https://www.iconos.edu.mx/)**.
 - 🏃‍♂️ Me apasiona el atletismo, todos los días hago un recorrido de 10km.
 - 📚 Actualmente estoy enfocado en las **Single Page Applications, los Web Components, las Apps Híbridas, el Server Side Render, así como en el rendimiento, accesibilidad y optimización de páginas web**.
 - 🎮 Dato curioso, me gusta jugar videojuegos de los 80's.
